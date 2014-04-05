@@ -12,4 +12,6 @@ This is another thing:
 
 ```objective-c
 NSString *string = @"Hello world";
+NSLog(@"This is just a message");
+NSLog(@"This is just another message");
 ```
