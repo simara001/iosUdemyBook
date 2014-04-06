@@ -1,9 +1,5 @@
-GitBook Example
+Welcome!
 =======
 
-This is a simple GitBook example, you can test it using:
-
-````
-$ gitbook serve
-```
+Welcome to this course, I am very excited to have you here. 
 

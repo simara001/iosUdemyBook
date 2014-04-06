@@ -2,5 +2,6 @@
 
 Add your chapters and articles in the following list:
 
-* [Chapter 1](chapter-1/README.md)
-    * [Article 1](chapter-1/ARTICLE1.md)
+* [Summary](manual/summary.md)
+* [Prerequisites](manual/chapter1.md)
+* [Introduction to XCode (Really basic introduction)](manual/chapter2.md)
