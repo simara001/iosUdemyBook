@@ -1,4 +1,4 @@
-### Let's start!
+## Prerequisites
 
 #### Install Git
 

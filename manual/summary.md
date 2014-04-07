@@ -17,12 +17,12 @@ This course covers 3 different areas at some extend. Mainly we will talk about O
 	+ How to put UILabels on the storyboard
 	+ How to change the color of the background
 	+ How to visualize the Storyboard on the iPhone Simulator
-+ Connecting the elements with code
++ Connecting Graphic elements with code
 	+ Add UIButton to the Storyboard
 	+ Connect UILabel to the ViewController.h
 	+ How to link UIButton to an action on the ViewController.m
 	+ Modify text of the UILabel by pressing a UIButton
-+ Delegates
++ Actions: username and password
 	* Start using UITextField (username and password)
 	* Select the correct Keyboards (for passwords)
 	* Select the correct Return button (Next, Go, Google it, etc)
