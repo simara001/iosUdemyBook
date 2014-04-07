@@ -1,12 +1,12 @@
 In this lesson we will cover:
 
 + Introduction to XCode (Really basic introduction)
-	+ Open XCode
-	+ Inspect the 3 main bars (Navigation, Debug Area and Utilities)
-	+ Inspect the Storyboard of the project
-	+ How to put UILabels on the storyboard
-	+ How to change the color of the background
-	+ How to visualize the Storyboard on the iPhone Simulator
++ Open XCode
++ Inspect the 3 main bars (Navigation, Debug Area and Utilities)
++ Inspect the Storyboard of the project
++ How to put UILabels on the storyboard
++ How to change the color of the background
++ How to visualize the Storyboard on the iPhone Simulator
 
 #### Open XCode
 

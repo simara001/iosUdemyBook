@@ -19,6 +19,20 @@ This course covers 3 different areas at some extend. Mainly we will talk about O
 	+ How to visualize the Storyboard on the iPhone Simulator
 + Connecting the elements with code
 	+ Add UIButton to the Storyboard
+	+ Connect UILabel to the ViewController.h
+	+ How to link UIButton to an action on the ViewController.m
+	+ Modify text of the UILabel by pressing a UIButton
++ Delegates
+	* Start using UITextField (username and password)
+	* Select the correct Keyboards (for passwords)
+	* Select the correct Return button (Next, Go, Google it, etc)
+	* How to know the available delegate methods for UITextfield
+	* How to detect when the user is writing on a UITextField
+	* How to detect when the user pressed the Return button
++ Gesture Recognizers
+	* How to add *Gesture Recognizers*
+	* How to dismiss a keyboard on Tap
+	* Testing different types of *Gesture Recognizers*
 + Setting up your project
 	+ Create a project using XCode
 	+ Analyzing the files on the projects
